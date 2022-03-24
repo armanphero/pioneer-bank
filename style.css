@@ -1,0 +1,36 @@
+/* before enter click */
+body{
+    padding: 100px;
+}
+.submit-area ,.deposit-div , .withdraw-div{
+    box-shadow: 0px 0px 20px rgba(128, 128, 128, .5);
+    padding: 50px;
+    border-radius: 18px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+/* after enter click */
+#after-click {
+    width: 85%;
+    margin: 0 auto;
+    display: none;
+}
+
+#div-1, #div-2, #div-3 {
+    padding: 47px 40px;
+    background: peachpuff;
+    border-radius: 18px;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+}
+#div-1 {
+    background: #5c4fc8;
+}
+#div-2 {
+    background: #f1956f;
+}
+#div-3 {
+    background: #ed9b03;
+}
